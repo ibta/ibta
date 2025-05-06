@@ -1,4 +1,6 @@
-## Hi there 👋
+## hellooo
+
+updating (slowly and thoughtfully) over my gap year <3
 
 <!--
 **ibta/ibta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
